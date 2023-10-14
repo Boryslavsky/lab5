@@ -1,0 +1,7 @@
+Це приклад тексту українською мовою.
+Текст може містити різні слова, розділові знаки та регістр.
+
+This is an example of English text. This is a second sentence.
+The text can contain various words, punctuation marks, and case.
+
+Текст може містити слова як українською, так і англійською мовами.
